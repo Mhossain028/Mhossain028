@@ -1,6 +1,6 @@
  Hi there 👋
  
-I'm Meraj. You can check my personal [website- BuuuGs](https://www.buuugs.me/)
+I'm Meraj. You can check my personal website- [BuuuGs](https://www.buuugs.me/)
 
 
 I'm a Student, Self-Learner and Developer!!
