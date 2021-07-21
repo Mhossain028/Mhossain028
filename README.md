@@ -44,10 +44,4 @@ Here you can find my github stats 👇
 <br />
 <br />
 
-[facebook]: https://www.facebook.com/sabikrahat72428
-[instagram]: https://www.instagram.com/sabik_rahat
-[website]: https://sabikrahat72428.blogspot.com
-[website_achievement]: https://sabikrahat72428.blogspot.com/search/label/achievements
-[linkedin]: https://www.linkedin.com/in/sabikrahat
-[twitter]: https://twitter.com/sabik_rahat
-[youtube]: https://www.youtube.com/channel/UCSqTf_pO-J7cd7PQ_BpFfGg/channels
+
