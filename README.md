@@ -6,7 +6,8 @@ I'm Meraj. You can check my personal website- [BuuuGs](https://www.buuugs.me/)
 I'm a Student, Self-Learner and Developer!!
 
 
-- 🔭 I’m currently working on Johnson IT Instiute as a Python Instructor
+- 🔭 I’m currently working on Johnson IT Instiute and Coursecado as a Python Instructor
+- 💻 I’m also work with Techognize Training Ltd. as a Teacher Assistant
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on YouTube, Tech and IT Training Institute
 - 🤔 I’m looking for help with Augmented Reality Docuentation for my university project
@@ -24,13 +25,17 @@ I'm a Student, Self-Learner and Developer!!
 - Dart
 - R
 
+## Web Scrapping Langugage
+- HTML
+- CSS
+
 ## Experiences
 - 💻 Data Science
 - 🤖 Machine Learning
 - 📱 App Development
-- 🕹 Game Development
+- 🕹 Game & AR Development
 - 🤖 Robotics and IoT
-- 🖥 Graphics Design
+- 🖥 Graphics & UI Design
 
 Here you can find my github stats 👇
 
